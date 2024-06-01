@@ -1,0 +1,24 @@
+html{
+    background-color:rgb(30, 30, 30)
+}
+img{
+    border: 5px rgb(238, 238, 236) solid;
+}
+div{
+    width:50%;
+    margin-left:25%;
+    
+} 
+ .font{
+  
+    font-family: "Libre Baskerville", fantasy;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform: capitalize;
+  }
+ h1{
+    font-size:50px;
+   
+ }
